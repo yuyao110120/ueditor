@@ -507,7 +507,8 @@ UE.I18N['en'] = {
             'lang_input_BOBO':'BOBO',
             'lang_input_babyCat':'BabyCat',
             'lang_input_bubble':'Bubble',
-            'lang_input_youa':'YouA'
+            'lang_input_youa':'YouA',
+            'lang_input_police':'police'
         }
     },
     gmap:{
