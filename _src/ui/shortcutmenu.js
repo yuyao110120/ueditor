@@ -172,7 +172,8 @@
 
             if (me.editor) {
                 el.style.zIndex = me.editor.container.style.zIndex * 1 + 10;
-                fixedlayer.style.zIndex = el.style.zIndex - 1;
+                // fixedlayer.style.zIndex = el.style.zIndex - 1;
+                fixedlayer.style.zIndex = 3000;
             }
         } ,
         hide : function () {
